@@ -43,7 +43,7 @@ a:hover {
 }
 
 .bg-color {
-	background: #f6d014;
+	background: #384184;
 }
 
 @media screen and (max-width: 767px) {
@@ -142,7 +142,7 @@ a:hover {
 }
 
 .fa-ul > li > i {
-	color: #f6d014;
+	color: #384184;
 	font-size: 15px;
 }
 
@@ -155,7 +155,7 @@ a:hover {
 }
 
 .title span {
-	color: #f6d014;
+	color: #384184;
 }
 
 .title:after {
@@ -163,7 +163,7 @@ a:hover {
 	display: block;
 	width: 70px;
 	height: 3px;
-	background: #f6d014;
+	background: #384184;
 	position: relative;
 }
 
@@ -220,12 +220,12 @@ h1, h2, h3, h4, h5, h6 {
 .btn-primary {
 	padding: 12px 18px;
 	text-transform: uppercase;
-	background: #f6d014;
+	background: #384184;
 	color: #ffffff;
 }
 
 .btn-primary:hover {
-	background: #f6d014;
+	background: #384184;
 }
 
 .white-text {
@@ -254,7 +254,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-nav > li > a:hover,
 .navbar-nav > li.active > a {
-	color: #f6d014;
+	color: #384184;
     text-decoration: none;
     background-color: transparent !important;
 }
@@ -269,7 +269,7 @@ h1, h2, h3, h4, h5, h6 {
 .mega-dropdown-menu > li > ul > li.active > a,
 .mega-dropdown-menu > li > ul > li.active > a:hover,
 .mega-dropdown-menu > li > ul > li.active > a:focus {
-	color: #f6d014;
+	color: #384184;
 	background: transparent;
 }
 
@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .dropdown.open > a {
-	color: #f6d014;
+	color: #384184;
 	background-color: transparent;
 }
 
@@ -322,7 +322,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .dropdown-menu > li > a:focus,
 .dropdown-menu > li > a:hover {
-	color: #f6d014;
+	color: #384184;
 	background: transparent;
 }
 .mega-dropdown {
@@ -352,7 +352,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .mega-dropdown-menu > li ul > li > a:hover,
 .mega-dropdown-menu > li ul > li > a:focus {
-	color: #f6d014;
+	color: #384184;
 	text-decoration: none;
 }
 .mega-dropdown-menu .dropdown-header {
@@ -384,7 +384,7 @@ h1, h2, h3, h4, h5, h6 {
 	border: 1px solid #ddd;
 }
 .navbar-toggle {
-	background: #f6d014;
+	background: #384184;
 }
 .navbar-toggle .icon-bar {
 	background: #ffffff;
@@ -424,7 +424,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .slide-title.color {
-	color: #f6d014;
+	color: #384184;
 }
 
 .slide-border:after {
@@ -432,13 +432,13 @@ h1, h2, h3, h4, h5, h6 {
 	display: block;
 	width: 80px;
 	height: 3px;
-	background: #f6d014;
+	background: #384184;
 }
 
 .slider-btn {
 	padding: 12px 18px;
 	text-transform: uppercase;
-	background: #f6d014;
+	background: #384184;
 	color: #ffffff;
 }
 
@@ -460,7 +460,7 @@ h1, h2, h3, h4, h5, h6 {
 	display: block;
 	width: 80px;
 	height: 2px;
-	background: #f6d014;
+	background: #384184;
 	margin: 25px 0;
 }
 /*Slideshow End*/
@@ -566,7 +566,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .feature-img h4 a:hover {
-	color: #f6d014;
+	color: #384184;
 }
 
 .feature-img p {
@@ -601,7 +601,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .feature-box-1 h4 a:hover {
-	color: #f6d014;
+	color: #384184;
 }
 
 .btn-learnmore {
@@ -621,7 +621,7 @@ h1, h2, h3, h4, h5, h6 {
 	transition: all 0.3s;
 }
 .feature-box:hover i:before {
-	color: #f6d014;
+	color: #384184;
 }
 .feature-box h4 {
 	color: #313131;
@@ -635,13 +635,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /*Short Feature Start*/
 .short-feature .number {
-	color: #f6d014;
+	color: #384184;
 	text-align: center;
 	font-size: 30px;
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
-	border: 1px solid #f6d014;
+	border: 1px solid #384184;
 	margin-right: 20px;
 	background: #333;
 }
@@ -682,7 +682,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .count-box i:before {
-	color: #f6d014;
+	color: #384184;
 	font-size: 60px;
 	line-height: 60px;
 	margin-bottom: 60px;
@@ -699,7 +699,7 @@ h1, h2, h3, h4, h5, h6 {
 	display: block;
 	width: 70px;
 	height: 2px;
-	background: #f6d014;
+	background: #384184;
 	margin: 15px auto 25px;
 }
 
@@ -741,11 +741,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .team-wrap h4 a:hover {
-	color: #f6d014;
+	color: #384184;
 }
 
 .team-wrap p.designation {
-	color: #f6d014;
+	color: #384184;
 	margin: 0 0 9px
 }
 
@@ -754,11 +754,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .team-wrap:hover {
-	border: 2px solid #f6d014;
+	border: 2px solid #384184;
 }
 
 .team-wrap:hover .team-img {
-	border-bottom: 2px solid #f6d014;
+	border-bottom: 2px solid #384184;
 }
 
 .team-wrap .team-img .overley {
@@ -795,7 +795,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .team-wrap .team-img .overley .team-social a i {
 	color: #ffffff;
-	border: 1px solid #f6d014;
+	border: 1px solid #384184;
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
@@ -806,8 +806,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .team-wrap .team-img .overley .team-social a:hover i {
 	color: #ffffff;
-	background: #f6d014;
-	border: 1px solid #f6d014;
+	background: #384184;
+	border: 1px solid #384184;
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
@@ -841,7 +841,7 @@ h1, h2, h3, h4, h5, h6 {
 .portfolio-nav li:hover,
 .portfolio-nav li.active {
 	color: #313131;
-	background: #f6d014;
+	background: #384184;
 }
 
 .portfolio {
@@ -936,14 +936,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio .portfolio-item .portfolio-overley .content h3 a:hover {
-	color: #f6d014;
+	color: #384184;
 	text-transform: uppercase;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
 }
 
 .portfolio .portfolio-item .portfolio-overley .content .portfolio-tags {
-	color: #f6d014;
+	color: #384184;
 }
 /*Portfolio End*/
 
@@ -957,7 +957,7 @@ h1, h2, h3, h4, h5, h6 {
 	background: #f7f7f7;
 	font-size: 15px;
 	padding: 46px;
-	border-left: 2px solid #f6d014;
+	border-left: 2px solid #384184;
 	position: relative;
 }
 
@@ -969,7 +969,7 @@ h1, h2, h3, h4, h5, h6 {
 	bottom: -10px;
 	left: 90%;
 	border-width: 10px 10px 0 10px;
-	border-color: #F6D014 transparent transparent transparent;
+	border-color: #384184 transparent transparent transparent;
 }
 
 .feedback h4 {
@@ -1004,7 +1004,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .client-box li:hover {
-	border: 1px solid #f6d014;
+	border: 1px solid #384184;
 }
 
 .client-box li img {
@@ -1104,7 +1104,7 @@ label > b {
 
 .panel-title a, 
 .panel-title a:focus {
-    background-color: #f6d014;
+    background-color: #384184;
     color: #fff;
     border: 0;
 }
@@ -1122,8 +1122,8 @@ label > b {
     position: relative;
     display: block;
     padding: 14px 60px 14px 22px;
-    border: 1px solid #f6d014;
-    background-color: #f6d014;
+    border: 1px solid #384184;
+    background-color: #384184;
     color: #313131;
     text-decoration: none;
     -webkit-transition: all 0.3s;
@@ -1190,7 +1190,7 @@ ul.pricing-table li:first-child {
 
 ul.pricing-table:hover li:first-child {
 	color: #313131;
-	background: #f6d014;
+	background: #384184;
 }
 
 ul.pricing-table li h2 {
@@ -1211,7 +1211,7 @@ ul.pricing-table:hover li h2 {
 
 ul.pricing-table li.price {
     padding: 30px 0 16px;
-    border-bottom: 1px solid #f6d014;
+    border-bottom: 1px solid #384184;
     color: #313131;
     font-size: 24px;
     font-weight: 700;
@@ -1238,7 +1238,7 @@ ul.pricing-table li.price {
 }
 
 .breadcrumb > li > a {
-	color: #f6d014;
+	color: #384184;
 }
 
 .breadcrumb > .active {
@@ -1251,13 +1251,13 @@ ul.pricing-table li.price {
 	margin: 30px 0;
 }
 .divider.solid {
-	border: 1px solid #f6d014;
+	border: 1px solid #384184;
 }
 .divider.dashed {
-	border: 1px dashed #f6d014;
+	border: 1px dashed #384184;
 }
 .divider.dotted {
-	border: 1px dotted #f6d014;
+	border: 1px dotted #384184;
 }
 /*Divider End*/
 
@@ -1275,18 +1275,18 @@ ul.pricing-table li.price {
 
 .dropcap.square {
 	color: #ffffff;
-	background: #f6d014;
+	background: #384184;
 }
 
 .dropcap.rounded {
 	color: #ffffff;
-	background: #f6d014;
+	background: #384184;
 	border-radius: 4px;
 }
 
 .dropcap.circle {
 	color: #ffffff;
-	background: #f6d014;
+	background: #384184;
 	border-radius: 100%;
 }
 /*Dropcap End*/
@@ -1294,7 +1294,7 @@ ul.pricing-table li.price {
 /*Pagination Start*/
 .pagination > li > a,
 .pagination > li > span {
-    color: #f6d014;
+    color: #384184;
 }
 
 .pagination > li > a:focus,
@@ -1302,7 +1302,7 @@ ul.pricing-table li.price {
 .pagination > li > span:focus,
 .pagination > li > span:hover {
     color: #fff;
-    background: #f6d014;
+    background: #384184;
 }
 
 .pagination > .active > a,
@@ -1311,7 +1311,7 @@ ul.pricing-table li.price {
 .pagination > .active > span,
 .pagination > .active > span:focus,
 .pagination > .active > span:hover {
-    background: #f6d014;
+    background: #384184;
     border-color: #ddd;
 }
 /*Pagination End*/
@@ -1323,7 +1323,7 @@ ul.pricing-table li.price {
 	padding: 120px 0;
 }
 .page-head h2 {
-	color: #f6d014;
+	color: #384184;
     margin: 0;
     text-transform: uppercase;
     font-size: 26px;
@@ -1346,7 +1346,7 @@ ul.pricing-table li.price {
 }
 
 .info h1 {
-	color: #f6d014;
+	color: #384184;
 	font-size: 140px;
 	font-weight: 700;
 }
@@ -1419,7 +1419,7 @@ ul.pricing-table li.price {
 }
 
 .content-area .entry-header .post-thumbnail:hover .thumb-hover .thumb-icon:hover a {
-    color: #f6d014;
+    color: #384184;
 }
 
 .content-area .entry-header img {
@@ -1518,16 +1518,16 @@ ul.pricing-table li.price {
 }
 
 .content-area .entry-header h2 a:hover {
-    color: #f6d014;
+    color: #384184;
     text-decoration: none;
 }
 
 .content-area .entry-meta span i {
-    color: #f6d014;
+    color: #384184;
 }
 
 .content-area .entry-meta span a:hover {
-    color: #f6d014;
+    color: #384184;
     text-decoration: none;
 }
 
@@ -1628,19 +1628,19 @@ ul.pricing-table li.price {
 }
 
 .widget_categories ul li a:hover{
-    color: #f6d014;
+    color: #384184;
 }
 
 
 .tagcloud a:hover {
     color: #fff;
-    background: #f6d014;
+    background: #384184;
     text-decoration: none;
-	border: 1px solid #f6d014;
+	border: 1px solid #384184;
 }
 
 .itehmeslab-latest-post li a:hover {
-    color: #f6d014;
+    color: #384184;
 }
 /*Blog Page End*/
 
@@ -1653,7 +1653,7 @@ ul.pricing-table li.price {
 }
 
 .f-title {
-	color: #f6d014;
+	color: #384184;
 	font-size: 17px;
 	text-transform: uppercase;
 	position: relative;
@@ -1664,7 +1664,7 @@ ul.pricing-table li.price {
 	display: block;
 	width: 70px;
 	height: 2px;
-	background: #f6d014;
+	background: #384184;
 	position: relative;
 	margin: 20px 0;
 }
@@ -1713,7 +1713,7 @@ ul.pricing-table li.price {
 }
 
 .f-address p i {
-	color: #f6d014;
+	color: #384184;
 	margin-right: 12px;
 }
 
@@ -1728,13 +1728,13 @@ ul.pricing-table li.price {
 }
 
 .copyright a:hover {
-	color: #f6d014;
+	color: #384184;
 }
 /*Footer End*/
 
 /*Back to top start*/
 .back-to-top {
-    background: #f6d014;
+    background: #384184;
     bottom: 15px;
     height: 40px;
     margin: 0;
