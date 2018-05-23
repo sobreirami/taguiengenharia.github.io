@@ -424,7 +424,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .slide-title.color {
-	color: #384184;
+	color: white;
 }
 
 .slide-border:after {
@@ -1323,7 +1323,7 @@ ul.pricing-table li.price {
 	padding: 120px 0;
 }
 .page-head h2 {
-	color: #384184;
+	color: white;
     margin: 0;
     text-transform: uppercase;
     font-size: 26px;
@@ -1539,7 +1539,7 @@ ul.pricing-table li.price {
 }
 
 .widget-title {
-    color: #32313b;
+    color: white;
     font-size: 22px;
     font-weight: 400;
     line-height: 24px;
