@@ -50,6 +50,13 @@ a:hover {
 	.logo img {
 		width: 70%;
 	}
+
+	.container {
+		padding-right: 0;
+		padding-left: 0;
+		margin-right: auto;
+		margin-left: auto;
+	}
 }
 
 .mt20 {
